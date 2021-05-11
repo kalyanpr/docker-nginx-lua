@@ -18,5 +18,3 @@ The conf file provided is the default generated conf file with the above locatio
 Build your docker image
 
 Run your docker container - Remember to use -p YOUR_PORT:80 in your docker run statement
-
-Visit http://localhost:YOUR_PORT/hellolua
